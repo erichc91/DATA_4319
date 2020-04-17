@@ -8,7 +8,7 @@ using CSV
 ### Structure
 * Initialize random weights
 * Adjust the weights to correctly classify the flowers
-* Demonstate an understanding of the math behind the smallest unit of MLA Nueral nets
+* Demonstate an understanding of the math behind Logistic Regression
 
 ### Helpful Reference
 ![alt text](https://miro.medium.com/max/1400/1*Ubge8qVlc4Xk58H1oMp4Zw.jpeg)

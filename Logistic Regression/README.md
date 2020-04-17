@@ -12,5 +12,5 @@ using CSV
 
 ### Helpful Reference
 ![alt text](https://miro.medium.com/max/1400/1*Ubge8qVlc4Xk58H1oMp4Zw.jpeg)
-![alt text](![alt text](https://miro.medium.com/max/1400/1*Ubge8qVlc4Xk58H1oMp4Zw.jpeg)
+![alt text](![alt text](https://github.com/erichc91/DATA_4319/blob/master/Logistic%20Regression/Loss%20Logisitc%20Regression.png)
 

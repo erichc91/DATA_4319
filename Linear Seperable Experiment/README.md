@@ -1,4 +1,4 @@
-# Logistic Regression
+# Linear Seperable Experiment
 This is a demonstration of a creating artificial data that are useful when you want to test ML algorithms using Julia 1.1.0.
 ### Required Modules
 ```julia

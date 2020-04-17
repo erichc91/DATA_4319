@@ -10,4 +10,4 @@ using Plots
 * Seperate the points into two sets one above and the other below
 
 ### Helpful Reference
-![alt text](https://github.com/erichc91/DATA_4319/blob/master/Logistic%20Regression/Loss%20Logisitc%20Regression.png)
+![alt text](https://github.com/erichc91/DATA_4319/blob/master/Linear%20Seperable%20Experiment/Linear%20seperated%20Data.png)

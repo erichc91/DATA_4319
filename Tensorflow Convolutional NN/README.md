@@ -21,4 +21,4 @@ import pandas as pd
 * Final activation layer classifying 10 layers
 
 ### Results
-![alt text](https://github.com/erichc91/DATA_4319/blob/master/Multi%20Layer%20Perceptron/Cost%20history.png)
+![alt text](https://github.com/erichc91/DATA_4319/blob/master/Tensorflow%20Convolutional%20NN/CNN%20model%20metrics.png)

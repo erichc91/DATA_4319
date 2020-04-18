@@ -12,3 +12,5 @@ using CSV
 * Adjust the weights to correctly classify the [MNIST dataset](http://yann.lecun.com/exdb/mnist/)
 * Demonstate an understanding of the structure and implementation of Machine Learning Algorithms
 
+### Results
+![alt text](https://github.com/erichc91/DATA_4319/blob/master/Multi%20Layer%20Perceptron/Cost%20history.png)

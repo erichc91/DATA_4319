@@ -1,7 +1,5 @@
 # Multi Layer Net
 This is a demonstration of a Deep Learning model built from the groud up in Julia 1.1.0.
-### Objective
-Correctly classify the digits in the [MNIST dataset](http://yann.lecun.com/exdb/mnist/)
 ### Required Modules
 ```julia
 using Plots

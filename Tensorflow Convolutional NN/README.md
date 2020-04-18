@@ -1,24 +1,24 @@
-# Multi Layer Net
-This is a demonstration of a Deep Learning model built from the groud up in Julia 1.1.0.
+# Tensorflow CNN
+This is a demonstration of a Convolutional Nueral Network built from the [tensorflow](https://www.tensorflow.org/) and [keras](https://keras.io/) modules mostly.
 ### Objective
-Correctly classify the digits in the [MNIST dataset](http://yann.lecun.com/exdb/mnist/)
+Correctly classify the digits in the [Fashion MNIST dataset](https://www.kaggle.com/zalando-research/fashionmnist)
 ### Required Modules
-```julia
-using Plots
-using CSV
+```python
+import numpy as np
+import tensorflow as tf
+import keras
+import matplotlib.pyplot as plt
+import pandas as pd
 ```
 ### Objectives
-* Initialize random weights
-* Adjust the weights to correctly classify the [MNIST dataset](http://yann.lecun.com/exdb/mnist/)
-* Demonstate an understanding of the structure and implementation of Machine Learning Algorithms
-
+* Adjust the weights to correctly classify the [Fashion MNIST dataset](https://www.kaggle.com/zalando-research/fashionmnist)
+* Demonstate an understanding of the structure and implementation of CNN and Tensorflow implementation
 ### Structure
-* A 6 layer nueral net layered in this order:
-* L1 - 784 inputs, 125 outputs
-* L2 - 125 inputs, 75 outputs
-* L3 - 75 inputs, 150 outputs
-* L4 - 150 inputs, 55 outputs
-* L5 - 55 inputs, 10 outputs
+* CNN composed of:
+* 1 CNN layer w/ 32 size output, and filter size of (3,3)
+* 1 Max Pooling layer
+* Regular NN DEnse Layer 100 strong
+* Final activation layer classifying 10 layers
 
 ### Results
 ![alt text](https://github.com/erichc91/DATA_4319/blob/master/Multi%20Layer%20Perceptron/Cost%20history.png)

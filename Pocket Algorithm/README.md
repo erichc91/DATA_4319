@@ -1,5 +1,5 @@
 # Pocket Algorithm
-This is a demonstration of a simple method on the [iris dataset](https://archive.ics.uci.edu/ml/datasets/Iris) using Julia 1.1.0.
+This is a demonstration of a Pocket Algorithm in [R](https://www.r-project.org/).
 ### Required Modules
 ```r
 library(repr)

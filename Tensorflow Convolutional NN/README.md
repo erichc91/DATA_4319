@@ -18,7 +18,7 @@ import pandas as pd
 * 1 CNN layer w/ 32 size output, and filter size of (3,3)
 * 1 Max Pooling layer
 * Regular NN DEnse Layer 100 strong
-* Final activation layer classifying 10 layers
+* Final activation layer classifying 10 outputs
 
 ### Results
 ![alt text](https://github.com/erichc91/DATA_4319/blob/master/Tensorflow%20Convolutional%20NN/CNN%20model%20metrics.png)

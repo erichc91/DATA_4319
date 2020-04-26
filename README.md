@@ -2,5 +2,5 @@
 ***
 ## Subject
 ***
-This is a repository filled with projects for a final submission in my SPring semester Machine Learning course.
+This is a repository filled with projects for a final submission in my Spring semester Machine Learning course.
 It fills a second objective of demonstrating code competency.

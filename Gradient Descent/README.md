@@ -11,3 +11,4 @@ theme(:dark)
 * Iterate gradient descent to a local minimum
 
 ### Helpful Reference
+![alt text](https://github.com/erichc91/DATA_4319/blob/master/Gradient%20Descent/Screenshot%20(41).png)
